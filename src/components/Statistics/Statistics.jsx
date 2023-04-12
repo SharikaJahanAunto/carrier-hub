@@ -18,10 +18,10 @@ const Statistics = () => {
       { id: 2,name: "Assignment 2", mark: 58, avg: 59.5, amt: 50 },
       { id: 3,name: "Assignment 3", mark: 60, avg: 59.75, amt: 40 },
       { id: 4,name: "Assignment 4", mark: 59, avg: 59.37, amt: 30 },
-      { id: 5,name: "Assignment 5", mark: 59, avg: 58.67, amt: 20 },
-      { id: 6,name: "Assignment 6", mark: 52, avg: 58.14, amt: 10 },
-      { id: 7,name: "Assignment 7", mark: 60, avg: 59.68, amt: 0 },
-      { id: 8,name: "Assignment 7", mark: 56, avg: 58.00, amt: 0 },
+      { id: 5,name: "Assignment 5", mark: 44, avg: 57.67, amt: 20 },
+      { id: 6,name: "Assignment 6", mark: 58, avg: 58.14, amt: 10 },
+      { id: 7,name: "Assignment 7", mark: 60, avg: 56.68, amt: 0 },
+      { id: 8,name: "Assignment 7", mark: 44, avg: 54.00, amt: 0 },
     ];
     return (
       <div>

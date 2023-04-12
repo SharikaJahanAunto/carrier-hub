@@ -33,9 +33,9 @@ const Home = () => {
 
 
             <div className='col-md-7 p-5 '>
-                <h1 className='fw-bold'>One Step <br /> Closer To Your <br /> <span className='dream'>Dream Job</span></h1>
+                <h1 className='fw-bold'>One Step <br /> Closer To Your <br /> <span className='dreaming'>Dream Job</span></h1>
                 <p>Explore thousands of job opportunities with all the <br /> information you need. Its your future. Come find it. Manage all <br /> your job application from start to finish.</p>
-                <button className='star-btn'>Get Started</button>
+                <button className='star-btn'>Start Now</button>
             </div>
 
             <div className='person col-md-5'>

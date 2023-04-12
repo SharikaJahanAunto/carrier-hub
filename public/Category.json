@@ -2,27 +2,27 @@
 [
     {
         "id": 1,
-        "img": "https://cdn-icons-png.flaticon.com/512/30/30774.png?w=740&t=st=1681058544~exp=1681059144~hmac=c973c794f7076cadd85c76eeb2ecb1790af1a78a385a28217026357154b6cf10",
-        "name": "Account & Finance",
-        "feature": "300 Jobs Available"
+        "img": "https://th.bing.com/th/id/OIP.xi_VY54V535hztHz11VTyQHaFL?pid=ImgDet&rs=1",
+        "name": "Web development",
+        "feature": "250 Jobs "
       },
       {
         "id": 2,
-        "img": "https://cdn-icons-png.flaticon.com/512/1022/1022492.png?w=740&t=st=1681058628~exp=1681059228~hmac=9c8165c9ce61935c27a273b2a4cffe8ac339b2640fd8906a7213acedf6e2ebbe",
-        "name": "Creative Design",
-        "feature": "100+ Jobs Available"
+        "img": "https://th.bing.com/th/id/R.74328fbe6a3b396c0fa1605ad3ab267c?rik=6lL0RrcBRdMv4g&riu=http%3a%2f%2fwww.sphinx-solution.com%2fblog%2fwp-content%2fuploads%2f2016%2f08%2fmachine-learning.jpg&ehk=%2feFhsGqwFboSdL7iR%2bI0H9pqgcljfjTQF1Xfalm4h5I%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Machine Learning",
+        "feature": "10 Jobs"
       },
       {
         "id": 3,
-        "img": "https://cdn-icons-png.flaticon.com/512/126/126238.png?w=740&t=st=1681058426~exp=1681059026~hmac=1b0a7700ee2be9fc10cd858fb5da08ab4ad0543eafd75e0b9eb2c3cb4c8bd35e",
-        "name": "Marketing & Sales",
-        "feature": "150 Jobs Available"
+        "img": "https://th.bing.com/th/id/OIP.xZVb18yE-tmSQPSItwRUegHaE8?pid=ImgDet&rs=1",
+        "name": "Data scientist",
+        "feature": "15 Jobs "
       },
       {
         "id": 4,
-        "img": "https://cdn-icons-png.flaticon.com/512/126/126359.png?w=740&t=st=1681058717~exp=1681059317~hmac=745d1233e8ae38524f8ca43632a6b8cc90a5cb2bd0d6c2fe79bf6cc86f66f106",
-        "name": "Engineering Job",
-        "feature": "224 Jobs Available"
+        "img": "https://th.bing.com/th/id/OIP.g3v91dzJZkv-zY97DUU56wHaEK?pid=ImgDet&rs=1",
+        "name": "App Developer",
+        "feature": "23 Jobs"
       }
       
       

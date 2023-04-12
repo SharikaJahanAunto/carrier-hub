@@ -16,7 +16,7 @@ const Header = () => {
            </div>
 
            <div>
-            <button className='star-btn'>Star Applying</button>
+            <button className='star-btn'>Apply Now</button>
            </div>
         </nav>
     );

@@ -1,0 +1,36 @@
+
+
+
+
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh; 
+margin-top: 20px;
+   
+  }
+  
+  .centered-div {
+height: 100%;
+width: 50%;
+
+  }
+.total{
+    border: 2px solid rgb(242, 240, 240);
+    margin-bottom: 10px;
+    padding: 20px;
+    
+}
+
+.logos{
+ height:90px ;
+ width: 110px;
+ border: 1px solid rgb(245, 242, 242);
+ margin-right: 40px;
+border-radius: 1px;
+}
+.filter{
+  margin-right: 100px;
+  justify-content: space-between;
+}

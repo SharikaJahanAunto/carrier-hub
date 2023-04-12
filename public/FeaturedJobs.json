@@ -1,0 +1,95 @@
+
+
+[
+    {
+        "id": 1,
+        "logo": "data:image/png;base64,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",
+        "title": "Data Scientist",
+        "company": "Google LLC",
+        "job_type": "Full-time",  
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $150,000",
+        "phone": "987-654-3210",
+        "email": "careers@xyzcorp.com",
+        "job_description": "We are seeking a skilled Data Scientist to analyze and interpret complex data sets. The ideal candidate will have a strong background in statistics, data mining, and machine learning.",
+        "job_responsibility": "1. Develop and implement machine learning models to solve business problems.\n2. Analyze large data sets to identify patterns and trends.\n3. Collaborate with cross-functional teams to develop data-driven solutions.\n4. Communicate findings and insights to stakeholders.\n5. Stay current with advancements in data science and related technologies.",
+        "educational_requirements": "Master's degree in Computer Science, Statistics, or a related field.",
+        "experience_years": "2-4 years of relevant experience."
+      },
+      {
+        "id": 2,
+        "logo": "data:image/png;base64,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",
+        "title": "Frontend Developer",
+        "company": "Netflix",
+        "job_type": "Part-time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "$60 - $80 per hour",
+        "phone": "555-123-4567",
+        "email": "jobs@123tech.com",
+        "job_description": "We are looking for a skilled Frontend Developer to create visually appealing and user-friendly web applications. The successful candidate will have strong proficiency in HTML, CSS, and JavaScript, as well as experience with modern frontend frameworks.",
+        "job_responsibility": "1. Develop responsive and interactive web applications.\n2. Collaborate with designers to implement UI/UX designs.\n3. Optimize web applications for performance and accessibility.\n4. Troubleshoot and resolve frontend issues.\n5. Stay up-to-date with the latest web development trends and best practices.",
+        "educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+        "experience_years": "3-5 years of frontend development experience."
+      },
+      {
+        "id": 3,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTrxCmpwq7Ww0uJWQIgkaVho-BRc_p---Lg&usqp=CAU",
+        "title": "Marketing Coordinator",
+        "company": "Tesla",
+        "job_type": "Part-time",
+        "location": "Chicago, IL",
+        "salary": "$20 - $25 per hour",
+        "phone": "888-987-6543",
+        "email": "hr@abcmarketing.com",
+        "job_description": "We are seeking a Marketing Coordinator to support our marketing team in executing marketing campaigns and initiatives. The ideal candidate will have excellent organizational skills and be familiar with various marketing channels and tools.",
+        "job_responsibility": "1. Assist in planning and executing marketing campaigns across multiple channels.\n2. Create and edit marketing content, including social media posts, blog articles, and email newsletters.\n3. Coordinate marketing events and activities.\n4. Monitor and analyze marketing performance metrics.\n5. Support marketing team with administrative tasks as needed.",
+        "educational_requirements": "Associate's or Bachelor's degree in Marketing or a related field.",
+        "experience_years": "1-2 years of marketing experience."
+      },
+      {
+        "id": 4,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrBcyBVZGczuJ-qz6ig44ZasYdO4xp2vkbA&usqp=CAU",
+        "title": "UX/UI Designer",
+        "company": "Design Innovators",
+        "job_type": "Full-time",
+        "location": "Seattle, WA",
+        "salary": "$80,000 - $100,000",
+        "phone": "777-555-8888",
+        "email": "careers@designinnovators.com",
+        "job_description": "We are looking for a talented UX/UI Designer to create intuitive and visually appealing user experiences for our digital products. The successful candidate will have a strong portfolio showcasing their expertise in UX/UI design and proficiency in design tools.",
+        "job_responsibility": "1. Create wireframes, mockups, and prototypes for digital products.\n2. Conduct user research and gather feedback to inform design decisions.\n3. Collaborate with cross-functional teams, including product managers and developers, to implement design solutions.\n4. Ensure consistency and coherence in design across different platforms and devices.\n5. Stay up-to-date with the latest design trends and best practices.",
+        "educational_requirements": "Bachelor's degree in Design, Interaction Design, or a related field.",
+        "experience_years": "3-5 years of UX/UI design experience."
+      },
+      {
+        "id": 5,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRvJLRP-JhErRvqtxUzSjS_5JBsBw8Y9mIRlvG1JAwh2nyDX9VzTqbaO2GHpDZZMg3gs&usqp=CAU",
+        "title": "Project Manager",
+        "company": "Global Solutions",
+        "job_type": "Full-time",
+        "location": "London, UK",
+        "salary": "£50,000 - £70,000",
+        "phone": "+44 20 1234 5678",
+        "email": "careers@globalsolutions.com",
+        "job_description": "We are seeking an experienced Project Manager to oversee and deliver complex projects across multiple teams and stakeholders. The ideal candidate will have strong leadership skills, excellent communication abilities, and proven project management expertise.",
+        "job_responsibility": "1. Define project scope, goals, and deliverables.\n2. Develop detailed project plans, including timelines, budgets, and resources.\n3. Coordinate and communicate with cross-functional teams to ensure successful project execution.\n4. Monitor project progress and risks, and take corrective actions as needed.\n5. Provide regular project status updates to stakeholders and senior management.",
+        "educational_requirements": "Bachelor's or Master's degree in Business Administration, Project Management, or a related field.",
+        "experience_years": "5-7 years of project management experience."
+      },
+      {
+        "id": 6,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCb22zI04llHp7-gZqhm9ypKwoGOpEQECn5Q&usqp=CAU",
+        "title": "Accountant",
+        "company": "Financial Services Inc.",
+        "job_type": "Part-time",
+        "location": "Toronto, Canada",
+        "salary": "$30 - $40 per hour",
+        "phone": "416-555-1234",
+        "email": "jobs@financialservices.com",
+        "job_description": "We are looking for a detail-oriented Accountant to handle financial reporting, budgeting, and analysis. The successful candidate will have strong analytical skills, be proficient in accounting software, and have a solid understanding of financial principles and regulations.",
+        "job_responsibility": "1. Prepare and analyze financial statements, including balance sheets, income statements, and cash flow statements.\n2. Perform financial forecasting, budgeting, and variance analysis.\n3. Reconcile financial discrepancies and resolve issues in a timely manner.\n4. Maintain accurate financial records and documentation.\n5. Collaborate with internal teams and external stakeholders to ensure compliance with financial regulations and policies.",
+        "educational_requirements": "Bachelor's degree in Accounting, Finance, or a related field.",
+        "experience_years": "2-4 years of experience in accounting or finance."
+      }     
+      
+]

@@ -1,0 +1,35 @@
+
+.company-containers{
+   width: 100%;
+   height: 100%;
+   padding: 10px;
+   border: 1px solid rgb(16, 5, 5);
+   border-radius: 5px;
+}
+div img{
+    width: 70px;
+    height:  40px;
+}
+.job{
+    height: 40px;
+    width: 109px;
+    border: 1px solid #7E90FE ;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.details {
+    background-color: #7E90FE;
+border-radius: 5px;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bolder;
+    height: auto; 
+    width: auto; 
+    display: inline-block;
+    padding: 10px 20px; 
+    cursor: pointer;
+
+     }
+  

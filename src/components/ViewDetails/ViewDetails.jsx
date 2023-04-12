@@ -34,8 +34,6 @@ const handleApplyNowClick = () => {
     return (
         <div className='mb-5'>
             <section style={{
-                backgroundImage: 'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wAVHCBZ07yG0lpYMS8lOgECV97aIV5Vfdn-viID0pEhOSdf2DCFqo6NSk1oPUZlvr-M&usqp=CAU")',
-                backgroundSize: 'cover',
                 width: '100%',
                 height: '100px'
             }} className='Details-container '>

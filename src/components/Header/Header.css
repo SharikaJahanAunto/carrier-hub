@@ -10,11 +10,11 @@ nav a {
 }
 
 .star-btn {
-    background-color: #16182b;
+    background-color: black;
     height: 40px;
     width: 150px;
     border-radius: 5px;
-    color: rgb(211, 114, 35);
+    color: white;
     font-weight: bold;
 }
 

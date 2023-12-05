@@ -5,14 +5,14 @@ const Header = () => {
     return (
         <nav className='container d-flex  nav-container mt-3'>
            <div>
-            <h3 className='fw-bold'>Black Smashers</h3>
+            <h3 className='fw-bold'>Carrier Hub</h3>
            </div>
 
            <div>
-        <Link className='fw-bold' to='/'>Home</Link>
-        <Link className='fw-bold' to='Statistics'>Statistics</Link>
-        <Link className='fw-bold' to='AppliedJobs'>Applied Jobs</Link>
-        <Link className='fw-bold' to='blog'>Blog</Link>
+        <Link className='fw-bold text-dark' to='/'>Home</Link>
+        <Link className='fw-bold text-dark' to='AppliedJobs'>Applied Jobs</Link>
+        <Link className='fw-bold text-dark' to='Statistics'>Statistics</Link>
+        <Link className='fw-bold text-dark' to='blog'>Blog</Link>
            </div>
 
            <div>
